@@ -1,0 +1,13 @@
+{
+  "name": "covid-bot",
+  "description": "A simple covid tracker bot for discord.",
+  "version": "0.0.1",
+  "main": "covidTracker.js",
+  "scripts": {
+    "start": "node covidTracker.js"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "discord.js": "^12.2.0"
+  }
+}
