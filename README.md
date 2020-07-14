@@ -1,2 +1,2 @@
 # Covid-19 Tracker Bot for Discord
-[](https://img.shields.io/node/v/nodemon)
+<img alt="node-current" src="https://img.shields.io/node/v/nodemon">
